@@ -1,2 +1,1 @@
-# MyLinux
-Debian-12 with i3 wm configs
+The goal here is to be able to make a ready-to-go debian 12 (or any debian based distro) installation extremely easy.
